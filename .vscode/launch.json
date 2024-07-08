@@ -8,7 +8,7 @@
       "type": "chrome",
       "request": "launch",
       "name": "Launch Chrome against localhost",
-      "url": "C://Users//Love your Dad//Desktop//New_Practice//Assigments//Day_04//js_ array_object//index.html",
+      "url": "C://Users//Love your Dad//Desktop//New_Practice//Assigments//Day_04//JSobjectArray//index.html"
       "webRoot": "${workspaceFolder}"
     }
   ]
